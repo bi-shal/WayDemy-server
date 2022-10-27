@@ -5,6 +5,7 @@ app.use(cors());
 
 const port = process.env.port || 5000;
 
+//Data load json file
 const allProductsCollection = require('./Data/Alldata.json')
 
 app.get('/', (req,res) => {
