@@ -31,3 +31,5 @@ app.get('/check/:id', (req,res) => {
 app.listen(port,() => {
     console.log(`server is runing ${port}`);
 })
+
+module.exports = app;
