@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 5000,
+        "duration": 35,
+        "title": "C - Learning",
+        "img": "https://i.ibb.co/sqkjVLw/download-1.png",
+        
+        "details": "You do not need prior programming experience to start learning C online. The programming language is popular and useful, and mastering it with free courses on edX means setting yourself up with the skills you need to advance your career. You will also have a strong foundation in computer science to learn about other popular programming languages like Python, Java, JavaScript, C++, and more."
+      },
+    {
+        "id": 2,
+        
+        "category_id": "02",
+        "rating": { "number": 4.0, "badge": "Excellent" },
+        "price": 6000,
+        "duration": 45,
+        "title": "Java - Programming language",
+        "img": "https://i.ibb.co/7GxNKFc/large-1.png",
+       "details": "Do you wish to learn One of the most popular programming languages in the world that draws everyone’s attention? Then this article is going to be worth reading as it has everything related to high-level programming Language Java. You can refer to the details like Certification Course Eligibility, Institutes Offering Java, Syllabus, etc. Be clear about the Fee Structure, Course Duration, and Admission Procedure needed for this Certification Course."      
+      },
+      {
+        "id": 3,
+        
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 7000,
+        "duration": 40,
+        "title": "Ruby - Programming language",
+        "img": "https://i.ibb.co/HDfXnpt/d-rendering-ruby-online-course-cogwheels-monochrome-purple-color-advertising-signboard-violet-banner.jpg",
+        
+        
+        "details": "Ruby is a general programming language used primarily for web applications, and other secondary tasks like data analysis and prototyping. Ruby on Rails is a popular software that is used for web applications. Students aspiring to become web developers, or data scientists can pursue Ruby Courses. As ruby is a skill-based course so various online platforms like Codecademy, Udacity, Coursera, etc offer free or paid Ruby Courses for beginners as well as advanced level learners. Students who pursue Ruby Courses pursue graduation in any Web Development Courses, Data Science Courses, or even BTech Computer Science."
+      },
+      {
+        "id": 4,
+        
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 9000,
+        "duration": 55,
+        "title": "Python - Programming language",
+        "img": "https://i.ibb.co/vYCGtz9/Udemy-Advance-Python-Learning-Courses.png",
+        
+        "details": "Python is powerful yet easy to read, making it highly applicable at major tech companies and a great first language to learn. Plus, you can learn this language on your schedule from any device.With Codecademy Pro, you’ll build a portfolio of work to showcase your skills when opportunity comes knocking."  
+        
+      },
+      {
+        "id": 5,
+        
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 11000,
+        "title": "Data Science",
+        "duration": 70,
+        "img": "https://i.ibb.co/FnPbV4g/large.png",
+        
+        "details": "The eligibility criteria to pursue a postgraduation or diploma course in Data Science is a bachelor’s degree in Engineering or Science field. Candidates need to have a basic knowledge of Statistics & Mathematics. Undergraduate data science courses require students to score more than 50% marks in class 12 exams in either Mathematics, Statistics, or Computer Science as the core subject."
+      },
+      {
+        "id": 6,
+        
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "price": 4500,
+        "duration": 30,
+        "title": "Java Script - Programming language",
+        "img": "https://i.ibb.co/bmL6JD6/Free-Courses-to-learn-Java-Script.jpg",
+       "details": "About this course You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics."
+        
+        
+        
+      }
+]
